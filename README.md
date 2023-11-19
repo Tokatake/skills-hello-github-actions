@@ -18,6 +18,7 @@ _Create a GitHub Action and use it in a workflow._
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
+such as adding an emoji to your README.md file.
 
 ## Step 5: Trigger the workflow
 
